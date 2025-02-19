@@ -6,3 +6,7 @@
 ## cocotb
 ### YouTube Videos
 [Make Verification Fun Again with Python and cocotb](https://youtu.be/8bnlovlUpGo?si=R4APEfYWr_EP9xVe)
+
+
+## CAD Algorithms
+[The FPGA Physical Design Flow Through the Eyes of ML](https://youtu.be/2OG6xEZhwSE?si=u50EJ_403rF1Yc8d): A talk by Ismail Bustany
